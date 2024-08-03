@@ -1,0 +1,16 @@
+
+{
+  "name": "Custom Repository",
+  "sources": [
+    {
+      "name": "NovelUpdates",
+      "url": "https://www.novelupdates.com/",
+      "latestChapterUrl": "https://www.novelupdates.com/latest/",
+      "baseUrl": "https://www.novelupdates.com/",
+      "chapterSelector": ".chapter-list",
+      "titleSelector": ".series-title",
+      "contentSelector": ".chapter-content",
+      "nextChapterSelector": ".next-chapter"
+    }
+  ]
+}
